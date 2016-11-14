@@ -58,7 +58,7 @@ Crea un proyecto nuevo en Xcode que se llame **Hamburguesas** y desarrolla lo si
 10. ¿Al presionar el botón se cambian de manera aleatoria los valores de la etiqueta país y hamburguesa?
 
 ##Resultado
-Se muestra la pantalla del iPhone 6s al ejecutar el programa:
+Se muestra la pantalla del iPhone 6s al ejecutar el programa (hacer click en la imagen para ver la ejecución):
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QukhsF7wUMg/0.jpg)](https://www.youtube.com/watch?v=QukhsF7wUMg "Hamburguesas en el mundo!")
 
