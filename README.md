@@ -60,7 +60,7 @@ Crea un proyecto nuevo en Xcode que se llame **Hamburguesas** y desarrolla lo si
 ##Resultado
 Se muestra la pantalla del iPhone 6s al ejecutar el programa:
 
-![Alt Text](https://github.com/m0rb1u5/Swift-programar-para-iOS_Semana-5-Hamburguesas-en-el-mundo-/raw/master/out3.gif)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QukhsF7wUMg/0.jpg)](https://www.youtube.com/watch?v=QukhsF7wUMg "Hamburguesas en el mundo!")
 
 ***
 Juan Carlos Carbajal Ipenza
